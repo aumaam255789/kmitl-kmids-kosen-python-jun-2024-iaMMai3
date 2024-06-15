@@ -17,4 +17,4 @@ if r > 0 :
 elif r < 0 :
   print("The result is negative.")
 else  :
-  print("The result is positive and negative.")
+  print("The result is  zero.")
