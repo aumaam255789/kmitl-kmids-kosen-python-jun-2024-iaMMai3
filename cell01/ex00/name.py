@@ -9,4 +9,4 @@ Original file is located at
 
 first_name = "Pavarit"
 last_name = "Vongkichpanit"
-print(first_name,last_name,"\n")
+print(first_name,last_name)
