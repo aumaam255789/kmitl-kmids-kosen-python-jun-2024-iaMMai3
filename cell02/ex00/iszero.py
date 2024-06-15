@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/12eWW1xRv4k7wVpdgK5NWz1YVUM_yT80C
 """
 
-num = int(input())
+num = float(input())
 if num == 0 :
   print("This number is equal to zero")
 else :
